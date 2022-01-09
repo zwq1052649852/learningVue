@@ -1,6 +1,5 @@
 <template>
-  <div id="app">
-    <el-input></el-input>
+  <div>
 
   </div>
 </template>
